@@ -1,0 +1,3 @@
+server:
+  port: 8089
+#service.swagger-host: http://localhost:8089/docker-spring-boot
